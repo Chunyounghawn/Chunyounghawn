@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <br> //기타
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Travis-ci-000000?style=flat-square&logo=CiviCRM&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Travis_ci-000000?style=flat-square&logo=CiviCRM&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
 </p>
