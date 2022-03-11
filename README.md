@@ -3,9 +3,8 @@
 <p align="left">
   
   🔥 Aim for challenge and growth. <br>
-  ✍🏻 Try to write down what I've learned in a variety of interests. <br>
-  👩🏻‍💻 
-  👩🏻‍🎓 
+  ✍🏻 Try to write down what I've learned. <br>
+  👩🏻‍💻 It's fun to grow day by day.
 
 </p>
 
