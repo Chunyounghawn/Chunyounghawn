@@ -1,6 +1,6 @@
 ### Hi, there. I'm YoungHawn Chun
 
-<p align="left">
+<p align="left"> 
   
   🔥 Aim for challenge and growth. <br>
   ✍🏻 Try to write down what I've learned. <br>
