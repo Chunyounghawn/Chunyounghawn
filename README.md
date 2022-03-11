@@ -27,4 +27,5 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp 
   <br> //기타
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GitHub_Desktop-181717?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
 </p>
