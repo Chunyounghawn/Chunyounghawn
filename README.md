@@ -8,7 +8,7 @@
  
 </p>
 
-<h3 align="left">🛠 Tech Skills </h3>
+<h3 align="left">🛠 Tech Skills. </h3>
 <p align="left"> *Techs that I've used at least once </p>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-512BD4?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
