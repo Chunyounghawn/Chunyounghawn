@@ -35,3 +35,10 @@
   <a href="https://chunyounghawn.github.io/"><img src="https://img.shields.io/badge/Git%20Blog-11B48A?style=flat-square&logo=GitBook&logoColor=white&link=https://chunyounghawn.github.io/"/></a>&nbsp
   <a href="mailto:younghawn6868@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=younghawn6868@gmail.com"/></a>
 </p>
+
+
+<h3 align="left">✨ Git Stats</h3>
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Chunyounghawn&count_private=true&show_icons=true&hide=stars"/></a>
+</p>
