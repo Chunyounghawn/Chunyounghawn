@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/React-ffb13b?style=flat-square&logo=Create React App&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Linux-#FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
   <br> //툴
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Travis_ci-000000?style=flat-square&logo=CiviCRM&logoColor=white"/></a>&nbsp 
