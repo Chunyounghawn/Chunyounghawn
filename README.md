@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/Nodejs-3766AB?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
   <br> //백
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-ffb13b?style=flat-square&logo=Create React App&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-09D3AC?style=flat-square&logo=Create React App&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
   <br> //툴
