@@ -12,7 +12,6 @@
 <p align="left"> *Techs that I've used at least once </p>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-512BD4?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SpringBoot-A8B9CC?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Nodejs-3766AB?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
   <br> 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
