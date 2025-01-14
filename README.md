@@ -20,9 +20,8 @@
   <img src="https://img.shields.io/badge/Markdown-41454A?style=flat-square&logo=Markdown&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
   <br> 
-  <img src="https://img.shields.io/badge/aws-000000?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Travis_ci-000000?style=flat-square&logo=CiviCRM&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=flat-square&logo=UnrealEngine&logoColor=white"/>
   <br> 
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub_Desktop-181717?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
