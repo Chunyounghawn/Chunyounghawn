@@ -20,12 +20,11 @@
 <p align="left"> 가볍게 써본 적 있어요 </p>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Javascript-E6B400?style=flat-square&logo=JavaScript&logoColor=white&labelColor=E6B400"/>&nbsp 
-  <img src="https://img.shields.io/badge/React-09D3AC?style=flat-square&logo=Create React App&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/React-09D3AC?style=flat-square&logo=React&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=NGINX&logoColor=white"/>&nbsp 
     <br> 
-    <img src="https://img.shields.io/badge/Figma-FFA500?style=flat-square&logo=Figma&logoColor=white"/>&nbsp 
-
+    <img src="https://img.shields.io/badge/Figma-FFA500?style=flat-square&logo=Figma&logoColor=white"/>&nbsp
 
 </p>
 
